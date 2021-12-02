@@ -10,7 +10,7 @@ Freshly wiped Playstation Community server for DayZ! on 11/23/2021
 Join the discord and search the community server tab for:
  
 
-<a href="https://discord.gg/phoenix-rp"> Phoenix RP </a>
+**<a href="https://discord.gg/phoenix-rp">Phoenix RP https://discord.gg/phoenix-rp</a>**
 
 
 
