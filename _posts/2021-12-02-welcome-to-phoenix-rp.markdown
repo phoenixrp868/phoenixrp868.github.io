@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to to the Phoenix RP DayZ Server"
+title:  "Welcome to the Phoenix RP DayZ Server"
 ---
 
 Freshly wiped Playstation Community server for DayZ! on 11/23/2021
